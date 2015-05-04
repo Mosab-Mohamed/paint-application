@@ -1,0 +1,19 @@
+<?xml version="1.0"?><Shapes><shape>
+	<type>3</type>
+	<x1>516</x1>
+	<y1>79</y1>
+	<x2>260</x2>
+	<y2>275</y2>
+	<fontColor>java.awt.Color[r=0,g=0,b=0]</fontColor>
+	<fillColor>null</fillColor>
+</shape>
+<shape>
+	<type>2</type>
+	<x1>758</x1>
+	<y1>127</y1>
+	<x2>589</x2>
+	<y2>387</y2>
+	<fontColor>java.awt.Color[r=153,g=255,b=0]</fontColor>
+	<fillColor>null</fillColor>
+</shape>
+</Shapes>
